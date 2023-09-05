@@ -88,7 +88,7 @@ hdfs dfs -mkdir -p /output/nasa_logs/
 ![App Screenshot](./screenshots/nifi.png)
 
 
-**one the dashbords**
+**One of the dashbords**
 
 ![App Screenshot](./screenshots/dash-1.png)
 
